@@ -1,0 +1,5 @@
+This is a file that can be read.
+It is supposed to be converted into uppercase,
+Then processed and put into another file called output.
+Python is really fun to use.
+It has nearly endless possibilities.
